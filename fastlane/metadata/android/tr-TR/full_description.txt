@@ -1,0 +1,29 @@
+openHAB - "empowering the smart home" - Birbirinden farklı sistemleri destekleyen ve sağlayan açık kaynak kodlu akıllı ev otomasyonu
+
+The builds on F-Droid have FCM and crash reporting removed and therefore won't be able to receive push notifications from openHAB Cloud. Instead, notifications are polled on a regular basis in these builds.
+Yeni özellikleri deneyin ve erken geri bildirimde bulunun!
+Beta sürümünü <a href="https://f-droid.org/packages/org.openhab.habdroid/">kararlı sürüm</a> ile birlikte kurabilirsiniz.
+
+openHAB, çok çeşitli akıllı ev sistemleri ve teknolojilerini tek bir çözümde entegre eden, Java tabanlı bir açık kaynaklı ev otomasyon platformudur.
+Birleşik soyutlama katmanının üstünde, tüm bağlı cihazlar genel otomasyon kural motorları ve farklı kullanıcı arayüzleri için kullanılabilir.
+
+<b>Desteklenen Ürünler</b>
+
+200'den fazla özel eklenti, markalar, cihazlar, teknolojiler ve iletişim protokolleri için destek sağlar. Örnekler Z-Wave, Philips Hue, Amazon Echo, Chromecast ve Sonos'tur. Mevcut tüm eklentileri ve desteklenen cihazları ve / veya işlevleri şu adreste keşfedin: https://www.openhab.org/addons/
+The app has an action plugin for Tasker and Locale included.
+
+<b>Açık Kaynak Topluluğu</b>
+
+openHAB açık kaynak girişimi, canlı topluluğunu güçlü bir şekilde destekliyor. Forum 13,000 kayıtlı kullanıcı ile rehberlik, yardım ve ilham bulmak için bir yerdir. openHAB topluluk forumu' na katıl: https://community.openhab.org
+Bir sorun bulduğunuzda lütfen bunu forumda veya https://github.com/openhab/openhab-android/issues adresinde bildirin
+Uygulamayı kendi dilinize çevirmek isterseniz https://crowdin.com/project/openhab-android adresinden bize katılın
+
+<b>openHAB Vakfı</b>
+
+openHAB Vakfı e.V. kamuoyunu serbest ve açık akıllı ev çözümlerinin olanakları ve faydaları hakkında eğitmek misyonu ile kar amacı gütmeyen bir organizasyondur. 
+
+<b>Önemli not</b>
+
+You need an openHAB server for this app.
+
+Gizlilik Politikası: https://www.openhabfoundation.org/privacy.html

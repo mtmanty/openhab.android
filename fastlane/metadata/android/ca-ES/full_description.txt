@@ -1,0 +1,29 @@
+openHAB - «potenciant la llar intel·ligent» - automatització de la llar amb codi obert i independent del proveïdor i de la tecnologia
+
+The builds on F-Droid have FCM and crash reporting removed and therefore won't be able to receive push notifications from openHAB Cloud. Instead, notifications are polled on a regular basis in these builds.
+Try out new features and give early feedback!
+You can install the beta version alongside the <a href="https://f-droid.org/packages/org.openhab.habdroid/">stable version</a>.
+
+openHAB és una plataforma feta en Java per a l'automatització de la llar basada en codi obert, que integra i combina una gran varietat de sistemes i tecnologies per a la llar intel·ligent en una solució única.
+Per sobre de la capa unificada d'abstracció, tots els dispositius connectats són disponibles per al motor de regles generals d'automatització i diferents interfícies d'usuari.
+
+<b>Productes suportats</b>
+
+Més de 200 complements específics proporcionen suport per a diferents marques, dispositius, tecnologies i protocols de comunicació. Alguns exemples són Z-Wave, Philips Hue, Amazon Echo, Chromecast i Sonos. Descobriu tots els complements disponibles, i dispositius i funcions suportats a: https://www.openhab.org/addons/
+The app has an action plugin for Tasker and Locale included.
+
+<b>Comunitat de codi obert</b>
+
+La iniciativa de codi obert openHAB dona ferm suport a la seva vibrant comunitat. El fòrum, amb més de 13.000 usuaris registrats, és un lloc on trobar orientacions, ajuda i inspiració. Uniu-vos al fòrum de la comunitat openHAB a https://community.openhab.org
+Si trobeu un problema, informeu-nos en en el fòrem o a https://github.com/openhab/openhab-android/issues
+Si voleu traduir la aplicació a la vostra llengua, uniu-vos a https://crowdin.com/project/openhab-android
+
+<b>Fundació openHAB</b>
+
+La fundació openHAB (openHAB Foundation e.V.) és una organització sense afany de lucre amb la missió d'educar al públic sobre la possibilitats i beneficis de les solucions lliures i obertes per a la domòtica i llars intel·ligents. Teniu més informació sobre la missió i els serveis de la fundació a https://www.openhabfoundation.org
+
+<b>Nota important</b>
+
+You need an openHAB server for this app.
+
+Política de privadesa: https://www.openhabfoundation.org/privacy.html

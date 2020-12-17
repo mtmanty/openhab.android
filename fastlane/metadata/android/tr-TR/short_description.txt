@@ -1,0 +1,1 @@
+Satıcı ve teknoloji agnostik açık kaynaklı ev otomasyonu

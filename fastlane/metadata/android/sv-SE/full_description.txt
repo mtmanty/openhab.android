@@ -1,0 +1,29 @@
+openHAB - ”empowering the smart home” - leverantörs- och teknikoberoende hemautomation med öppen källkod
+
+The builds on F-Droid have FCM and crash reporting removed and therefore won't be able to receive push notifications from openHAB Cloud. Instead, notifications are polled on a regular basis in these builds.
+Testa nya funktioner och ge tidig feedback!
+Beta-versionen kan installeras parallellt med den <a href="https://f-droid.org/packages/org.openhab.habdroid/">stabila versionen</a>.
+
+openHAB är en Java-baserad hemautomationsplattform med öppen källkod som integrerar och kombinerar ett stort utbud av olika system och tekniker för smarta hem i en enda lösning.
+Ovanpå det enhetliga abstraktionslagret är alla anslutna enheter tillgängliga för den övergripande regelmotorn och olika användargränssnitt.
+
+<b>Produkter som stöds</b>
+
+Över 200 tillägg ger support för varumärken, enheter, teknik och kommunikationsprotokoll. Exempel är Z-Wave, Philips Hue, Amazon Echo, Chromecast och Sonos. Upptäck alla tillgängliga tillägg och enheter som stöds och/eller fungerar på: https://www.openhab.org/addons/
+Appen har en inbyggd åtgärdsplugin för Tasker och Locale.
+
+<b>Öppen källkods-gemenskapen</b>
+
+Öppen källkods-initiativet openHAB är stark förespråkare för sitt levande community. Forumet med över 13 000 registrerade användare är ett ställe att hitta vägledning, hjälp och inspiration. Gå med i openHAB-forumet över på https://community.openhab.org
+När du hittar ett problem vänligen rapportera det i forumet eller på https://github.com/openhab/openhab-android/issues
+Om du vill översätta appen till ditt språk gå med oss på https://crowdin.com/project/openhab-android
+
+<b>openHAB Foundation</b>
+
+openHAB Foundation är en icke vinstdrivande organisation som har som mål att utbilda allmänheten kring möjligheterna och fördelarna med friga och öppna hemautomatiseringslösningar. Lär dig mer om uppdraget och tjänsterna på https://www.openhabfoundation.org
+
+<b>Viktigt meddelande</b>
+
+Du behöver en openHAB-server för denna app.
+
+Integritetspolicy: https://www.openhabfoundation.org/privacy.html

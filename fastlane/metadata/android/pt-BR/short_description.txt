@@ -1,0 +1,1 @@
+Fornecedor e tecnologia agnóstica de código aberto de automação residencial
